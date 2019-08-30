@@ -1,5 +1,4 @@
 extern crate gobject_sys;
-use gobject_sys;
 
 use glib;
 use glib::subclass;
