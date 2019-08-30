@@ -1,3 +1,5 @@
+extern crate gobject_sys;
+
 use glib;
 use glib::subclass;
 use glib::subclass::prelude::*;
